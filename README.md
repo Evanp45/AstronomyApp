@@ -1,2 +1,2 @@
-# Getting Started with Create React App
+Use of the NASA APOD API
 
